@@ -1,0 +1,18 @@
+class: csc424-182
+project: proj1
+student: cmur
+date:
+
+grade:	6/6
+
+vigenere:		2/2
+ico (%):		2/2
+crack-vigenere:	2/2
+lateness:	(0)/(3)
+  
+commit:
+  # the log for the commit of graded program
+
+comments:
+  # comments on the program and grading
+

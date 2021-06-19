@@ -1,0 +1,22 @@
+class: csc507
+project: proj2
+student: cmur
+date:
+
+grade: 7/8 
+
+problem 1:  4/4
+problem 2:  2/2
+problem 3:  1/2
+
+
+comments:
+  # comments on the program and grading
+
+problem 3:
+  in vernon_g(p,g), 
+  the generator g only produces one
+  bit of randomness at a time
+  meaning that you're only encrypting
+  the least significant bit of each
+  plaintext byte

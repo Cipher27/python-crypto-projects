@@ -1,0 +1,21 @@
+class: csc507
+project: proj3.1
+student: cmur
+date: 3/21/2018
+
+grade   : 5/8
+lateness: 1
+
+encrypt_none:  2/2
+encrypt_mae :  1/2
+encrypt_mte :  1/2
+encrypt_etm :  1/2
+
+
+commit:
+
+comments:
+  # comments on the program and grading
+
+it seems that only the 'none' mode works
+the cbc_mac function is incorrect
